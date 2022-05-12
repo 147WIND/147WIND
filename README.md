@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=147WIND)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=147WIND)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=147WIND&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
