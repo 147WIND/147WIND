@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=147WIND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=147WIND&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=147WIND)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **147WIND/147WIND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
