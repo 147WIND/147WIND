@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=147WIND)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=147WIND)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=147WIND&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=147WIND&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
