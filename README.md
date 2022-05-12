@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的Github主页)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的Github主页)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=147WIND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
