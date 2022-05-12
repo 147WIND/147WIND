@@ -9,9 +9,14 @@
   <a href="https://space.bilibili.com/6280446/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/147WIND/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=147WIND" alt="访客统计" /></div>
+  
+<img src="https://visitor-badge.glitch.me/badge?page_id=147WIND" alt="访客统计" /></div>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+#### 我正在学习的语言
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 ![Metrics](https://metrics.lecoq.io/147WIND?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
@@ -23,7 +28,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=147WIND&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 <!--
 **147WIND/147WIND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
