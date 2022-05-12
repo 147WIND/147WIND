@@ -1,9 +1,9 @@
-<!--打字特效
+<!--打字特效--!>
 <h1 align="center"> <a href="https://147wind.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到147WIND的Github主页!&center=true&size=27"> </a> </h1>
---!>
-<!--循环敲键盘
+
+<!--循环敲键盘--!>
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
---!>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=147WIND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=147WIND&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
