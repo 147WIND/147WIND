@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=147WIND&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=147WIND&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=147WIND&theme=algolia&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=147WIND&theme=dark)](https://git.io/streak-stats)
 
